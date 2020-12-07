@@ -10,7 +10,7 @@ farejadordefake
 
 ❗Abaixo estão informações e instruções para executar a aplicação localmente.
 ***
-
+> Baixe a pasta "farejadordefake\App\Publicado" e execute o Farejador.exe
 ***
 ## Equipe
 ***
