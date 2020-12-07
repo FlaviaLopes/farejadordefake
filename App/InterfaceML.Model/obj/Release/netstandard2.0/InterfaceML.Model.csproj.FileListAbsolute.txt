@@ -1,0 +1,10 @@
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\bin\Release\netstandard2.0\InterfaceML.Model.deps.json
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\bin\Release\netstandard2.0\InterfaceML.Model.dll
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\bin\Release\netstandard2.0\InterfaceML.Model.pdb
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\obj\Release\netstandard2.0\InterfaceML.Model.csprojAssemblyReference.cache
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\obj\Release\netstandard2.0\InterfaceML.Model.AssemblyInfoInputs.cache
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\obj\Release\netstandard2.0\InterfaceML.Model.AssemblyInfo.cs
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\obj\Release\netstandard2.0\InterfaceML.Model.csproj.CoreCompileInputs.cache
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\obj\Release\netstandard2.0\InterfaceML.Model.dll
+C:\Users\aoboz\Desktop\Hacka\Interface\InterfaceML.Model\obj\Release\netstandard2.0\InterfaceML.Model.pdb
