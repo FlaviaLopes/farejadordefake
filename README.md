@@ -53,6 +53,10 @@ Curso Sistemas de Informação na UFBA. Apaixonado por: Desenvolvimento Web e Mo
 > <img style="width: 100px; max-width: 200px;" src="https://img.shields.io/badge/luanaisa-2684b1?style=for-the-badge?&amp;logo=linkedin">
 > </a>
 
+
+
+![](https://github.com/FlaviaLopes/farejadordefake/blob/master/docs/imagens/giphy.gif)
+
 ***
 ## Organização do Projeto
 ***
@@ -102,6 +106,8 @@ Curso Sistemas de Informação na UFBA. Apaixonado por: Desenvolvimento Web e Mo
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+
+
 
 
 --------
