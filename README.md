@@ -10,7 +10,7 @@ farejadordefake
 
 ❗Abaixo estão informações e instruções para executar a aplicação localmente.
 ***
-
+> Baixe a pasta "farejadordefake\App\Publicado" e execute o Farejador.exe
 ***
 ## Equipe
 ***
@@ -52,6 +52,10 @@ Curso Sistemas de Informação na UFBA. Apaixonado por: Desenvolvimento Web e Mo
 > <a href="https://www.linkedin.com/in/luanaisa/">
 > <img style="width: 100px; max-width: 200px;" src="https://img.shields.io/badge/luanaisa-2684b1?style=for-the-badge?&amp;logo=linkedin">
 > </a>
+
+
+
+![](https://github.com/FlaviaLopes/farejadordefake/blob/master/docs/imagens/giphy.gif)
 
 ***
 ## Organização do Projeto
@@ -102,6 +106,8 @@ Curso Sistemas de Informação na UFBA. Apaixonado por: Desenvolvimento Web e Mo
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+
+
 
 
 --------
