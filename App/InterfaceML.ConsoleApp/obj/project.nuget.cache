@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YI8lJj38NszdgEiI9K73CdMFcg/rGGXakh9uJC0U0leoPpgrIcT/gr7wZYo37ZFCxlZ4EDmmMxTmKrWwjLRL8w==",
+  "dgSpecHash": "BMK6TDUQ4J3xC5Bg5NNwcnqVnXmVTaY4/aZoQfrd5OILSrpiZ2rYezUd9ylhOntypOgHZgRFBV+T/MeVa//iJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aoboz\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\aoboz\\.nuget\\packages\\microsoft.ml\\1.5.0-preview2\\microsoft.ml.1.5.0-preview2.nupkg.sha512",
