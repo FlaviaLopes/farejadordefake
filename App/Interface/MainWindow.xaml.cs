@@ -101,7 +101,8 @@ namespace Interface
                             foreach (string Fact in Resultado.Split("\"textualRating\": "))
                             {
                                 string Review = Fact.Split("\"languageCode\"")[0];
-                                if (Fact.Contains("Fals") | Fact.Contains("Fak") | Fact.Contains("Exa"))
+                                
+                                if (Fact.ToLower().Contains("fals") | Fact.ToLower().Contains("fak") | Fact.ToLower().Contains("exa"))
                                 {
                                     Confiavel = false;
                                 }

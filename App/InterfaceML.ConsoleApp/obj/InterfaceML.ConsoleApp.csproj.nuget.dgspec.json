@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj": {}
+    "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj": {
+    "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj",
         "projectName": "InterfaceML.ConsoleApp",
-        "projectPath": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.ConsoleApp\\InterfaceML.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\aoboz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aoboz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.Model\\InterfaceML.Model.csproj": {
-                "projectPath": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.Model\\InterfaceML.Model.csproj"
+              "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.Model\\InterfaceML.Model.csproj": {
+                "projectPath": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.Model\\InterfaceML.Model.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.Model\\InterfaceML.Model.csproj": {
+    "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.Model\\InterfaceML.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.Model\\InterfaceML.Model.csproj",
+        "projectUniqueName": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.Model\\InterfaceML.Model.csproj",
         "projectName": "InterfaceML.Model",
-        "projectPath": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.Model\\InterfaceML.Model.csproj",
+        "projectPath": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.Model\\InterfaceML.Model.csproj",
         "packagesPath": "C:\\Users\\aoboz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aoboz\\Desktop\\Hacka\\Interface\\InterfaceML.Model\\obj\\",
+        "outputPath": "C:\\Users\\aoboz\\Documents\\GitHub\\farejadordefake\\App\\InterfaceML.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aoboz\\AppData\\Roaming\\NuGet\\NuGet.Config",
